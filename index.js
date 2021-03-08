@@ -24,4 +24,4 @@ spawnSync('npm', ['install', '--prefix', `${process.cwd()}/${appName}`]);
 installing.succeed();
 
 console.log(emoji.get('tada'), 'The Vue + TailwindCSS Boilerplate was installed');
-console.log('NPX package created with love by Videsk with', emoji.get('heart'), ' https://videsk.io');
+console.log('NPX package created with', emoji.get('heart') ,' by Videsk https://videsk.io');

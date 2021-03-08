@@ -1,6 +1,6 @@
 {
   "name": "@videsk/vue-tailwind-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A starter/boilerplate for Vue.js and Tailwind CSS integration installer",
   "bin": {
     "vue-tailwind-boilerplate": "./index.js"
